@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93ef0e49-1c43-4b89-86ea-957f99b5afd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test1_二维数组中的查找/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test01_二维数组中的查找/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test2_替换空格/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test02_替换空格/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test3_从尾到头打印链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test03_从尾到头打印链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test4_重建二叉树/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test04_重建二叉树/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test5_用两个栈实现队列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test05_用两个栈实现队列/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test6_旋转数组的最小数字/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test06_旋转数组的最小数字/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test7_斐波那契数列/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test07_斐波那契数列/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test8_跳台阶/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test08_跳台阶/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test9_变态跳台阶/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/剑指offer编程题_第二版/test09_变态跳台阶/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="93ef0e49-1c43-4b89-86ea-957f99b5afd9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +9,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/字节跳动笔试题/经理变程序员/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/字节跳动笔试题/经理变程序员/Main.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
@@ -36,6 +42,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -52,19 +59,26 @@
               <item name="code_note" type="b2602c69:ProjectViewProjectNode" />
               <item name="code_note" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指offer编程题_第二版" type="462c0819:PsiDirectoryNode" />
+              <item name="字节跳动笔试题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code_note" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code_note" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="字节跳动笔试题" type="462c0819:PsiDirectoryNode" />
+              <item name="经理变程序员" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555230430951" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -93,27 +107,23 @@
       <option name="presentableId" value="Default" />
       <updated>1555164906115</updated>
       <workItem from="1555164908487" duration="157000" />
+      <workItem from="1555230228067" duration="204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157000" />
+    <option name="totallyTimeSpent" value="361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" weight="0.24962178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -121,28 +131,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/剑指offer编程题_第二版/test01_二维数组中的查找/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -158,6 +167,13 @@
           <folding>
             <element signature="e#0#262#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字节跳动笔试题/经理变程序员/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
